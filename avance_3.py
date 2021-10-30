@@ -1,4 +1,5 @@
 
+
 #Al parecer este código no me funciona en el IDLE de python
 #pero si se pone en Google Colab, sí funciona :]
 
